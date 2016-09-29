@@ -4,7 +4,7 @@
 
 Submitted by: **Kenneth Ford**
 
-Time spent: **15** hours spent in total (Application Submitted September 25)
+Time spent: **5** hours spent in total (Application Submitted September 25)
 
 ## User Stories
 
